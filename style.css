@@ -256,6 +256,22 @@ h1, h2, h3, h4 {
     color: #666;
 }
 
+/* Talks page: bold title, smaller grey venue line underneath */
+.talks-page .dated-list li {
+    margin-bottom: 14px;
+}
+
+.entry-title {
+    display: block;
+    font-weight: 700;
+}
+
+.entry-venue {
+    display: block;
+    color: #666;
+    font-size: 0.92em;
+}
+
 /* CV page */
 
 .cv-download {
